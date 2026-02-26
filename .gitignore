@@ -1,0 +1,16 @@
+# Fichiers compilés
+*.hex
+*.elf
+*.bin
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# IDE spécifiques
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
