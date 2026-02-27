@@ -2,7 +2,7 @@
 
 ## Description
 Contrôle de moteurs pas à pas avec uStepper S32 pour modélisme ferroviaire.
-Gestion des adresses 100 et 101 via protocole DCC.
+Rotation de 180° et -180° via Pin2 et Pin3.
 
 ## Matériel
 - uStepper S32 board
